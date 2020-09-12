@@ -1,0 +1,27 @@
+.MuiTypography-root {
+    margin: 0 !important;
+}
+
+.ToDos {
+    margin: 0 45% !important;
+}
+
+.MuiInputBase-input {
+    color: green !important;
+    min-width: 350px !important;
+    margin: 0 auto !important;    
+}
+
+.MuiFormControl-marginNormal {
+    margin: 0 40% !important;
+}
+
+.Mui-checked  {
+    color: green !important; 
+}
+
+
+
+
+
+
